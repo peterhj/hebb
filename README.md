@@ -1,3 +1,5 @@
-# HEBB: an embeddable virtual machine
+# Hebb
 
-WIP
+See: [https://github.com/peterhj/merwyn](Merwyn)
+
+Hebb will return...
